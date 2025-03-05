@@ -13,6 +13,6 @@ color: "Yellow"
 
 ## Description of the commands
 
-| Stats | Description | Right-aligned |
+| Name | Description | Status |
 | :---         |     :---:      |          ---: |
 | Stats   | Information about the bot     | ⚠️ Commands Updates    |

@@ -12,6 +12,7 @@ color: "Yellow"
 ```
 
 ## Description of the commands
-| Name | Description |
-|----------|-----------------------------------------------------------------|-----------------------------------------------|
-| Stats	   | Information about the bot | ⚠️ Commands Updates|
+
+| Stats | Description | Right-aligned |
+| :---         |     :---:      |          ---: |
+| Stats   | Information about the bot     | ⚠️ Commands Updates    |

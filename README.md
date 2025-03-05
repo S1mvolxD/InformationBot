@@ -13,5 +13,5 @@ color: "Yellow"
 
 ## Description of the commands
 | Name | Description |
-|----------|-----------------------------------------------------------------|
-| Stats	   | Information about the bot |
+|----------|-----------------------------------------------------------------|-----------------------------------------------|
+| Stats	   | Information about the bot | ⚠️ Commands Updates|

@@ -15,4 +15,4 @@ color: "Yellow"
 
 | Name | Description | Status | Type |
 | :---         |     :---:      |      :---:      |        ---: |
-| Stats   | Information about the bot     | ⚠️ Commands Updates    | No slash| 
+| Stats   | Information about the bot     | ⚠️ Commands Updates    | Prefix/Slash | 

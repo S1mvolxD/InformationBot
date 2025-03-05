@@ -10,3 +10,8 @@ npm i aoi.js@latest
 ```
 color: "Yellow"
 ```
+
+## Description of the commands
+| Name | Description |
+|----------|-----------------------------------------------------------------|
+| Stats	   | Information about the bot |
